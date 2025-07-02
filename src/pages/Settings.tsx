@@ -17,7 +17,7 @@ const Settings: React.FC = () => {
           layout="vertical"
           onFinish={onFinish}
           initialValues={{
-            siteName: 'MGM Plus',
+            siteName: 'web Plus',
             siteDescription: '视频管理平台',
             enableRegistration: true,
             enableComments: true,

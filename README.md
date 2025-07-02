@@ -1,4 +1,4 @@
-# MGMplus Frontend
+# web Frontend
 
 一个基于 React 19、TypeScript 和 Vite 构建的现代化前端应用，集成了 Ant Design 组件库和 TailwindCSS 样式框架，支持基于后端权限的动态路由和菜单生成。
 
@@ -24,7 +24,7 @@
 
 ```bash
 git clone <repository-url>
-cd MGMplus-frontend
+cd web-frontend
 ```
 
 ### 2. 安装依赖
